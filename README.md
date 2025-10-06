@@ -1,90 +1,109 @@
-# 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
+# Afribio Energies - Clean Gas from School Waste
 
-You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
+## 🌟 Overview
 
-This assignment will guide you from planning your site all the way to deploying it online. Let’s make your project *production-worthy*! 🚀
+Afribio Energies is revolutionizing energy solutions for African boarding schools by installing prefabricated biogas digesters that convert organic waste into clean, reliable cooking gas. Our innovative system addresses the triple threat of escalating firewood costs, inefficient waste management, and operational strain faced by educational institutions.
+
+## 🎯 Mission
+
+To empower African boarding schools with sustainable energy solutions that eliminate firewood dependency, improve sanitation, and redirect saved funds toward educational development.
+
+## 💡 The Problem We Solve
+
+### Financial Drain
+- **Ksh 70,000–100,000/month** on firewood expenses
+- **Ksh 100,000+/year** on waste management
+- **Over Ksh 1,000,000/year** combined operational drain
+
+### Operational Challenges
+- Unreliable sanitation & energy systems
+- Heavy labor requirements for firewood management
+- Health risks and staff strain
+- Environmental degradation
+
+## 🛠️ Our Solution
+
+### Three-Step Process
+1. **Feed** - Utilize existing sanitary waste (kitchen scraps and manure optional)
+2. **Digest** - Sealed tanks automatically convert waste to pure biogas
+3. **Use** - Purified gas piped directly to kitchen stoves
+
+### Key Benefits
+- ✅ **Eliminate firewood costs** completely
+- ✅ **24/7 reliable energy** supply
+- ✅ **On-site waste management** solution
+- ✅ **Staff time optimization**
+- ✅ **Environmental sustainability**
+
+## 🎨 Website Features
+
+### For Schools
+- **Free Site Assessment** requests
+- **Customized Solutions** based on student population
+- **Transparent Process** explanation
+- **Easy Contact** system
+
+### For Job Seekers
+- **Career Opportunities** portal
+- **CV Upload** functionality
+- **Multiple Position** applications
+- **Direct Communication** channels
+
+## 📊 Technical Implementation
+
+### Frontend Capabilities
+- Responsive design for all devices
+- Interactive contact forms
+- Real-time form validation
+- Professional user interface
+- Fast loading performance
+
+### Backend Infrastructure
+- Secure data storage
+- File upload handling (PDF, DOC, DOCX)
+- Automated email notifications
+- Database management
+- API endpoints for scalability
+
+## 🎯 Target Impact
+
+### By 2055 Goals
+- **1,200+** schools equipped
+- **1,800,000+** students empowered
+- **2,000+ tons** of waste diverted annually
+- **Countless** trees preserved from firewood use
+
+## 📞 Get Involved
+
+### For Schools
+- Small institutions (up to 300 students) - 2-3 day installation
+- Medium institutions (300-900 students) - 3-5 day installation  
+- Large institutions (900+ students) - 4-7 day installation
+
+### Partnership Opportunities
+We collaborate with:
+- Educational institutions
+- Environmental organizations
+- Government bodies
+- Corporate social responsibility programs
+
+## 🔗 Connect With Us
+
+- **Phone**: +254759795294
+- **Email**: biogreen.p@outlook.com
+- **LinkedIn**: Afribio Energies
+- **Twitter**: @job_l_er
+- **Facebook**: Afribio Energies
+- **Instagram**: @afribio.energies
+
+## 🤝 Partnership
+
+*In partnership with Jacob's Ladder Africa*
+
+## 📄 Legal
+
+© 2025 Afribio Energies. All rights reserved.
 
 ---
 
-## 🌐🎯 Part 1: Planning and Organizing a Multipage Website
-
-Before you write any code, take time to plan:
-
-* Define your website's purpose (portfolio, product showcase, blog, etc.)
-* Outline 3–5 pages (e.g., Home, About, Services, Contact, Gallery)
-* Sketch or describe the layout of each page
-* Map out internal navigation (how pages link to one another)
-
-**Goal:** Show intentional structure and user journey across the site.
-
----
-
-## 🌍💻 Part 2: Build the Website Using HTML5, CSS, and JavaScript
-
-Using your plan, begin building:
-
-* Use HTML5 for semantic structure
-* Apply CSS for responsive layout, styling, and animations
-* Use JavaScript to add interactivity (menus, forms, toggles, dynamic content)
-
-Each page should:
-
-* Be mobile-responsive
-* Share a consistent layout/header/footer
-* Include at least one interactive element (e.g., form validation, toggle menu, animation on scroll)
-
-**Goal:** Integrate everything you’ve learned in a cohesive, functioning project.
-
----
-
-## 🛠️🚀 Part 3: Best Practices for Code Organization
-
-Before deployment, refactor your project to follow production-friendly practices:
-
-* Organize files in folders (`/css`, `/js`, `/images`, etc.)
-* Write clean, modular, and commented code
-* Use meaningful file names and relative paths
-* Validate your HTML/CSS and test on different screen sizes
-
-**Goal:** Prepare your codebase to be readable, maintainable, and scalable.
-
----
-
-## 🌐🚀 Part 4: Introduction to Hosting and Deployment
-
-Once your project is complete, choose a method to **host your site online**.
-
-You can use:
-
-* **GitHub Pages** (great for portfolios and static sites)
-* **Netlify** (powerful CI/CD features and easy form support)
-* **Vercel** (lightning-fast deployment for frontend projects)
-
-Deploy your project and confirm that:
-
-* All links and scripts work
-* It loads properly on mobile and desktop
-* It has a clear, shareable URL
-
-**Goal:** Publish your work online and make it accessible to the world.
-
----
-
-## Deliverables
-
-1. A GitHub repository containing:
-
-   * Your complete project code, properly organized
-   * A `README.md` file explaining your project purpose, structure, and live URL
-2. A live deployed website (hosted via GitHub Pages, Netlify, or Vercel)
-
----
-
-## Outcome
-
-* Clarity and thoroughness of planning documentation
-* Proper use of HTML5, CSS, and JavaScript across multiple pages
-* Responsive and accessible design
-* Clean, well-organized, and commented code
-* Successful live deployment with a working link
-* Evidence of following best practices
+*Transforming waste into energy, one school at a time.* 🌱✨
